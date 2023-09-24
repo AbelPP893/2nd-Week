@@ -15,3 +15,13 @@ git remote add origin https://github.com/AbelPP893/ToolClass2023.git
 git branch -M main
 git push -u origin main
 
+
+# 3rd Week: Fooling Ourselves 
+
+Due to some lab work, I was not able to attend last Wednesday class, but I read the paper. As a young scientist, I can feel myself identify with what is written in the article. So far, I have experienced two or maybe three situations where my results did not fulfill my expectations, and I tried to blame the experimental design, the samples, or equipment about my poor performance. During the process of finding a explanation about the issue I was not conscious that I was the one originating the problem. It is so easy for us to only focus on the expectations and the desire results that we make more small mistakes or errors than we expected. I would recommend to other young scientists, colleagues, and peers that sometimes a brief break, will help us to recharge our batteries and focus more on those tiny details or mistakes that later could foolish us. 
+
+
+
+# 4th Week: Do Financial Conflicts of Interest Bias Research? An Inquiry into the ‘‘Funding Effect’’ Hypothesis
+
+How does this impact our realm of science? That's a question that came to my mind when I was reading this article. It is clear that companies invest millions of dollars on research to prove that their products are good, healthy, or fulfill the expectatives that they advertised. From the scientists' side, it is alwyas great to have the funds and sponsors required to complete a project, but the same funding can be double-edged weapon. The companies expect to obtain the most benefitial result, and that produces a big pressure on the researchers. I consider that scientists could receive the money from the companies, but they will strictly focus on developing the best outcome no matter the expectations of the sponsor. Scientist must completed researchers in the most freely and independent way. 
